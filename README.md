@@ -4,14 +4,15 @@
 ## Resources
  Read or watch:
 
-     - Resources to learn Git
-     - About READMEs
-     - How to write a Git commit message
+     - [Resources to learn Git](https://alx-intranet.hbtn.io/rltoken/EC5rb6yWBWllPB-T8rd0SQ)
+     - [About READMEs](https://alx-intranet.hbtn.io/rltoken/yM5FZakIhHB2TWO1PN2PZg)
+     - [How to write a Git commit message](https://alx-intranet.hbtn.io/rltoken/SihXX88mKA9TFaIebKX3Rw)
+
 
 **Resources for advanced tasks** (Read only after finishing the mandatory tasks):
 
-     - Learning branching
-     - Effective pull requests and other good practices for teams using GitHub
+     - [Learning branching](https://alx-intranet.hbtn.io/rltoken/hBgLCXoQaGTcOwr_kmCoEA)
+     - [Effective pull requests and other good practices for teams using GitHub](https://alx-intranet.hbtn.io/rltoken/xhKV_qX3eXvyePzeNraEGw)
 
 
 ## Learning Objectives
